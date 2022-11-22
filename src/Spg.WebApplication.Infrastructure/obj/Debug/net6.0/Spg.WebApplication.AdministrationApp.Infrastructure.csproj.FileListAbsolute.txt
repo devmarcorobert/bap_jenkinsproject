@@ -1,0 +1,17 @@
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.csproj.AssemblyReference.cache
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.AssemblyInfoInputs.cache
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.AssemblyInfo.cs
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.deps.json
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.runtimeconfig.json
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.dll
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.pdb
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.AdministrationApp.Domain.dll
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.AdministrationApp.Domain.pdb
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.csproj.CopyComplete
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.dll
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\refint\Spg.WebApplication.AdministrationApp.Infrastructure.dll
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.pdb
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.AdministrationApp.Infrastructure.genruntimeconfig.cache
+D:\marco\schule-4bhif\pos\Spg.WebApplication.AdministrationApp\src\Spg.WebApplication.AdministrationApp.Infrastructure\obj\Debug\net6.0\ref\Spg.WebApplication.AdministrationApp.Infrastructure.dll

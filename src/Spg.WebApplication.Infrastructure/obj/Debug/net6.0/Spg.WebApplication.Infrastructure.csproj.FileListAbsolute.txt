@@ -1,0 +1,17 @@
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.Infrastructure.deps.json
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.Infrastructure.runtimeconfig.json
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.Infrastructure.dll
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.Infrastructure.pdb
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.AdministrationApp.Domain.dll
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\bin\Debug\net6.0\Spg.WebApplication.AdministrationApp.Domain.pdb
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.csproj.AssemblyReference.cache
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.AssemblyInfoInputs.cache
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.AssemblyInfo.cs
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.csproj.CoreCompileInputs.cache
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.csproj.CopyComplete
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.dll
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\refint\Spg.WebApplication.Infrastructure.dll
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.pdb
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\Spg.WebApplication.Infrastructure.genruntimeconfig.cache
+D:\marco\schule-4bhif\bap\bap-4xhif-github-actions-devmarcorobert\src\Spg.WebApplication.Infrastructure\obj\Debug\net6.0\ref\Spg.WebApplication.Infrastructure.dll
